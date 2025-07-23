@@ -6,7 +6,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ```
 ---
 
-> **CURRENT BOT VERSION ➜ `1.0.0 ⚡`**
+> **CURRENT BOT VERSION ➜ `2.0.0 ⚡`**
 ---
 
 
@@ -29,7 +29,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   
 --- 
 
-<a><img src='https://files.catbox.moe/q0t3l2.jpg'/></a>
+<a><img src='https://files.catbox.moe/vsp16g.jpg'/></a>
 
 
 
@@ -51,7 +51,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 > **1. PAIR CODE SESSION ID**
 
-<a href='https://gotar-xmd-session.onrender.com/' target="_blank">
+<a href='https://keithpair-site.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
