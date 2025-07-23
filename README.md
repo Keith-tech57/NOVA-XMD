@@ -42,7 +42,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/Keith-tech57/KEITH-XMD/fork"><img title="KEITH-XMD" src="https://img.shields.io/badge/FORK-GOTAR%20XMD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Keith-tech57/KEITH-XMD/fork"><img title="KEITH-XMD" src="https://img.shields.io/badge/FORK-KEITH%20XMD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
